@@ -1,0 +1,115 @@
+PODS:
+  - AFNetworking (3.1.0):
+    - AFNetworking/NSURLSession (= 3.1.0)
+    - AFNetworking/Reachability (= 3.1.0)
+    - AFNetworking/Security (= 3.1.0)
+    - AFNetworking/Serialization (= 3.1.0)
+    - AFNetworking/UIKit (= 3.1.0)
+  - AFNetworking/NSURLSession (3.1.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.1.0)
+  - AFNetworking/Security (3.1.0)
+  - AFNetworking/Serialization (3.1.0)
+  - AFNetworking/UIKit (3.1.0):
+    - AFNetworking/NSURLSession
+  - Bugsnag (5.23.0)
+  - DFEmpty (0.0.2)
+  - IQKeyboardManager (3.0.8)
+  - JGProgressHUD (2.1)
+  - JSONModel (1.8.0)
+  - Masonry (1.1.0)
+  - MBProgressHUD (1.2.0)
+  - MJExtension (3.0.15.1)
+  - MJRefresh (3.3.1)
+  - MMMaterialDesignSpinner (0.2.5)
+  - PLPlayerKit (3.4.3):
+    - PLPlayerKit/iphoneos (= 3.4.3)
+  - PLPlayerKit/iphoneos (3.4.3)
+  - ReactiveCocoa (2.4.7):
+    - ReactiveCocoa/UI (= 2.4.7)
+  - ReactiveCocoa/Core (2.4.7):
+    - ReactiveCocoa/no-arc
+  - ReactiveCocoa/no-arc (2.4.7)
+  - ReactiveCocoa/UI (2.4.7):
+    - ReactiveCocoa/Core
+  - SDWebImage (4.3.3):
+    - SDWebImage/Core (= 4.3.3)
+  - SDWebImage/Core (4.3.3)
+  - WHC_AutoLayoutKit (2.8.4):
+    - WHC_AutoLayoutKit/AutoCellHeight (= 2.8.4)
+    - WHC_AutoLayoutKit/Frame (= 2.8.4)
+    - WHC_AutoLayoutKit/LayoutGuide (= 2.8.4)
+    - WHC_AutoLayoutKit/LayoutView (= 2.8.4)
+    - WHC_AutoLayoutKit/StackView (= 2.8.4)
+    - WHC_AutoLayoutKit/Util (= 2.8.4)
+  - WHC_AutoLayoutKit/AutoCellHeight (2.8.4):
+    - WHC_AutoLayoutKit/LayoutView
+    - WHC_AutoLayoutKit/Util
+  - WHC_AutoLayoutKit/Frame (2.8.4):
+    - WHC_AutoLayoutKit/Util
+  - WHC_AutoLayoutKit/LayoutGuide (2.8.4):
+    - WHC_AutoLayoutKit/Util
+  - WHC_AutoLayoutKit/LayoutView (2.8.4):
+    - WHC_AutoLayoutKit/Util
+  - WHC_AutoLayoutKit/StackView (2.8.4):
+    - WHC_AutoLayoutKit/Frame
+    - WHC_AutoLayoutKit/LayoutView
+  - WHC_AutoLayoutKit/Util (2.8.4)
+
+DEPENDENCIES:
+  - AFNetworking (~> 3.1.0)
+  - Bugsnag
+  - DFEmpty (~> 0.0.2)
+  - IQKeyboardManager (~> 3.0.0)
+  - JGProgressHUD
+  - JSONModel (~> 1.8.0)
+  - Masonry
+  - MBProgressHUD (~> 1.2.0)
+  - MJExtension (~> 3.0.15.1)
+  - MJRefresh (~> 3.3.0)
+  - MMMaterialDesignSpinner
+  - PLPlayerKit
+  - ReactiveCocoa (~> 2.4.7)
+  - SDWebImage (~> 4.3.2)
+  - WHC_AutoLayoutKit (~> 2.8.4)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - AFNetworking
+    - Bugsnag
+    - DFEmpty
+    - IQKeyboardManager
+    - JGProgressHUD
+    - JSONModel
+    - Masonry
+    - MBProgressHUD
+    - MJExtension
+    - MJRefresh
+    - MMMaterialDesignSpinner
+    - PLPlayerKit
+    - ReactiveCocoa
+    - SDWebImage
+    - WHC_AutoLayoutKit
+
+SPEC CHECKSUMS:
+  AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
+  Bugsnag: 1f33ee5b55bc4b131a30e0fe6db714da9c6609f6
+  DFEmpty: 04e4148c99c1f4cf5a351e5b2dcd515572fc7d9d
+  IQKeyboardManager: 99636798d52f410d6fbea9cdbf4deafc43ecc1f6
+  JGProgressHUD: aa403e9a5b45cae98903c4600cccdd98c0c3ec90
+  JSONModel: 02ab723958366a3fd27da57ea2af2113658762e9
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  MJExtension: 19bc33ce2eee2d319760f5622562cf581a6ff756
+  MJRefresh: eeda70fbf0ad277f3178cef1cd0c3532591d6237
+  MMMaterialDesignSpinner: a548042720c2e5f04212048483085d7942ac3e81
+  PLPlayerKit: a44734dc78c1f8f9fb22c537fa1916612fa46b06
+  ReactiveCocoa: eb38dee0a0e698f73a9b25e5c1faea2bb4c79240
+  SDWebImage: de4d90b5bff3571eae7bd16202b1f43135409fa5
+  WHC_AutoLayoutKit: 2f36fa6a92f0f46783486c4dee630aae7e1777bb
+
+PODFILE CHECKSUM: d70e96ae778b631d28dd368ffa1101ffea8ba62e
+
+COCOAPODS: 1.8.4
